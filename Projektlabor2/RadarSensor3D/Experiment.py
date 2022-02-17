@@ -6,7 +6,6 @@ from KalmanFilter import KalmanFilter
 from PIL import Image
 import cv2 as cv2
 import random as rand
-from DBScan import DBSCAN
 from DBScanner import DBScanner
 import time
 
